@@ -1,14 +1,15 @@
+
 # 🤖 NexBot AI — Your Personal Python Chatbot
 
-\<p align="center">   \<strong>A modern, ChatGPT-inspired chatbot built entirely with Python and Streamlit.\</strong>   \<br>   Simple. Interactive. Intelligent. Customizable. \</p>
+A modern, ChatGPT-inspired chatbot built entirely with Python and Streamlit.
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Streamlit-Framework-FF4B4B?logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-Framework-FF4B4B?logo=streamlit\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/AI-Chatbot-8B7CFF](https://img.shields.io/badge/AI-Chatbot-8B7CFF)" />   \<img src="[https://img.shields.io/badge/Architecture-Single%20File-success](https://img.shields.io/badge/Architecture-Single%20File-success)" />   \<img src="[https://img.shields.io/badge/License-MIT-green](https://img.shields.io/badge/License-MIT-green)" /> \</p>
+**Simple. Interactive. Intelligent. Customizable.**
 
 ---
 
 ## ✨ Overview
 
-**NexBot AI** is a lightweight, interactive chatbot application developed entirely in Python.
+NexBot AI is a lightweight, interactive chatbot application developed entirely in Python.
 
 Inspired by modern AI conversational platforms such as ChatGPT, NexBot combines a beautiful dark-mode interface with a custom-built conversational engine.
 
@@ -43,14 +44,14 @@ NexBot features a modern conversational interface with:
 
 ## 🛠️ Technologies
 
-| Technology          | Purpose                   |
-| ------------------- | ------------------------- |
-| Python              | Core programming language |
-| Streamlit           | Web application interface |
-| Regular Expressions | Text processing           |
-| Difflib             | Text similarity matching  |
-| Random              | Response selection        |
-| Datetime            | Date and time handling    |
+| Technology | Purpose |
+|---|---|
+| Python | Core programming language |
+| Streamlit | Web application interface |
+| Regular Expressions | Text processing |
+| Difflib | Text similarity matching |
+| Random | Response selection |
+| Datetime | Date and time handling |
 
 ## 📂 Project Structure
 
@@ -140,13 +141,11 @@ Use the **Teach NexBot** feature in the sidebar.
 For example:
 
 **Question:**
-
 ```text
 What is Java?
 ```
 
 **Answer:**
-
 ```text
 Java is a popular object-oriented programming language.
 ```
@@ -228,10 +227,6 @@ You are free to use, modify, and distribute it according to the license terms.
 
 ---
 
-\<p align="center">
-&#x20; \<strong>Built with ❤️ and Python.\</strong>
-&#x20; \<br>\<br>
-&#x20; \<strong>NexBot AI\</strong>
-&#x20; \<br>
-&#x20; Your conversation. Your knowledge. Your AI.
-\</p>
+**Built with ❤️ and Python.**
+
+**NexBot AI — Your conversation. Your knowledge. Your AI.**
