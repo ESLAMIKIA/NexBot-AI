@@ -1,4 +1,3 @@
-
 # 🤖 NexBot AI — Your Personal Python Chatbot
 
 A modern, ChatGPT-inspired chatbot built entirely with Python and Streamlit.
@@ -41,6 +40,18 @@ NexBot features a modern conversational interface with:
 - Chat-style message bubbles.
 - Interactive learning panel.
 - Responsive browser-based layout.
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73bddd54-6862-4151-ae09-fd630bc48af5" width="49%" alt="NexBot AI - Chat Interface" />
+  <img src="https://github.com/user-attachments/assets/b7ae5318-9721-4102-b519-7a61be76ecc5" width="49%" alt="NexBot AI - Application Preview" />
+</p>
+
+<p align="center">
+  <em>A closer look at NexBot AI's interface and features.</em>
+</p>
+
 
 ## 🛠️ Technologies
 
